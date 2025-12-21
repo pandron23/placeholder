@@ -1,0 +1,85 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Arduino Uno R3",
+        "category": "Плати",
+        "price": 750,
+        "currency": "UAH",
+        "description": "Популярна мікроконтролерна плата на базі ATmega328P для навчання та прототипування.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Ardzuino_Uno_-_R3.jpg",
+        "inStock": true
+      },
+      {
+        "id": 2,
+        "name": "Макетна плата (Breadboard 830 точок)",
+        "category": "Макетування",
+        "price": 180,
+        "currency": "UAH",
+        "description": "Безпаяльна макетна плата для швидкого складання схем.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Breadboard.png",
+        "inStock": true
+      },
+      {
+        "id": 3,
+        "name": "Набір джамперів (40 шт)",
+        "category": "Кабелі",
+        "price": 120,
+        "currency": "UAH",
+        "description": "Набір з'єднувальних проводів male-male для макетної плати.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Jumper_wires.jpg",
+        "inStock": true
+      },
+      {
+        "id": 4,
+        "name": "Світлодіодний набір (LED 5мм)",
+        "category": "Світлодіоди",
+        "price": 95,
+        "currency": "UAH",
+        "description": "Набір світлодіодів різних кольорів для експериментів з Arduino.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/LEDs.jpg",
+        "inStock": true
+      },
+      {
+        "id": 5,
+        "name": "Резистори (набір 600 шт)",
+        "category": "Пасивні компоненти",
+        "price": 220,
+        "currency": "UAH",
+        "description": "Набір резисторів різних номіналів для електронних схем.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Resistors.jpg",
+        "inStock": true
+      },
+      {
+        "id": 6,
+        "name": "Датчик температури та вологості DHT11",
+        "category": "Датчики",
+        "price": 160,
+        "currency": "UAH",
+        "description": "Цифровий датчик температури та вологості для Arduino.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/DHT11_Sensor.jpg",
+        "inStock": true
+      },
+      {
+        "id": 7,
+        "name": "Сервопривід SG90",
+        "category": "Мотори",
+        "price": 210,
+        "currency": "UAH",
+        "description": "Мікросервопривід для керування рухом у проєктах Arduino.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/SG90_servo_motor.jpg",
+        "inStock": false
+      },
+      {
+        "id": 8,
+        "name": "LCD дисплей 16x2 з I2C",
+        "category": "Дисплеї",
+        "price": 320,
+        "currency": "UAH",
+        "description": "Символьний LCD дисплей 16x2 з I2C адаптером.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/LCD_16x2.jpg",
+        "inStock": true
+      }
+    ]
+  }
+  
